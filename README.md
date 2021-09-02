@@ -28,7 +28,7 @@
 
 ***              
        
-## 2. 감성 분
+## 2. 감성 분류
 
 <img src="https://user-images.githubusercontent.com/44887886/127101862-8e45355a-ffcd-49e4-bd0e-d344af606bd2.png" width="600"></img>
 
