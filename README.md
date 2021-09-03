@@ -76,7 +76,7 @@
   - 클러스터별 등장 빈도수가 높은 단어
   - 분기별 클러스터 추이
 
-  <img src="https://user-images.githubusercontent.com/44887886/127099555-cbebbd6a-db5f-4b2c-bf7f-ad13d7470be8.png" width="800"></img>     
+  <img src="https://user-images.githubusercontent.com/44887886/131998213-9a9d78db-e31b-43d2-8bc6-37e309017d67.png" width="800"></img>     
 
   U+고객센터 앱의 2016년도 1분기 ~ 2021년도 1분기까지의 리뷰에 대한 정보를 담고 있는 대시보드이다. 필터가 있어 분기별, 주제별로 원하는 정보를 선택적으로 얻을 수 있다. 분기 별 불만 사항으로 앞으로 어떤 문제를 해결해야 하는지의 방향성을 도출할 수 있다.     
   
