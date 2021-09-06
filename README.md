@@ -38,7 +38,7 @@
 
 - fine-tuning
   - 크롤링한 U+ 고객센터 데이터로 학습
-  - 최종 정확도 **89%**   
+  - 최종 정확도 **89.7%**   
     <img width="300" alt="스크린샷 2021-07-27 오후 1 53 35" src="https://user-images.githubusercontent.com/44887886/127097513-77b0f28f-d6c1-47a5-a297-d246438732a1.png"></img>
 
 => **ELBERT (Elegant Friends BERT)** 자체 모델 생성
